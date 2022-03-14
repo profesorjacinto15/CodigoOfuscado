@@ -1,6 +1,10 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+/***
+ * Clase para explicar el codigo ofuscado
+ */
+
 public class Ofuscado {
     public static void imprimir(String mensaje) {
         System.out.println(mensaje);
