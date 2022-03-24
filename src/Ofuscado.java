@@ -46,6 +46,12 @@ public class Ofuscado {
         return alreves;
     }
 
+
+    /**
+     * Metodo main para inciar el programa
+     * @param args
+     * @throws IOException
+     */
     public static void main(String[] args) throws IOException {
         Scanner teclado = new Scanner(System.in);
         int opcion;
