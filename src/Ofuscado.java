@@ -25,6 +25,10 @@ public class Ofuscado {
         }
     }
 
+    /**
+     * Método para crear un palindromo
+     */
+
     public static String palindromo(String palabra) {
         String alreves = "";
         int posicion = 0;
