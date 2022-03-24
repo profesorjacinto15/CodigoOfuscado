@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-/***
+/**
  * Clase para explicar el codigo ofuscado
  */
 
@@ -9,6 +9,12 @@ public class Ofuscado {
     public static void imprimir(String mensaje) {
         System.out.println(mensaje);
     }
+
+    /**
+     * Métod para calcular el factorial
+     * @param numero
+     * @return calculo del factorial
+     */
 
     public static int factorial(int numero) {
         if (numero == 0) {
